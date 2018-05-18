@@ -31,7 +31,7 @@
 
   <actions>
     <!-- Add your actions here -->
-    <action id="com.springer.plugin.GeneratorAction" class="com.springer.plugin.GeneratorAction" text="com.springer.plugin.GeneratorAction" description="com.springer.plugin.GeneratorAction">
+    <action id="com.springer.plugin.GeneratorAction" class="com.springer.plugin.GeneratorAction" text="Generate Api Doc" description="com.springer.plugin.GeneratorAction">
       <add-to-group group-id="GenerateGroup" anchor="last"/>
     </action>
   </actions>
